@@ -115,7 +115,7 @@ const HomePage = () => {
       <div className='flex justify-between items-center px-10 py-5 bg-gray-100 dark:bg-[#232323]'>
         {/* Logo */}
         <div className='flex px-10'>
-          <h1 className='dark:text-white text-3xl font-bold'>Image Gallery</h1>
+          <h1 className='dark:text-white lg:text-3xl font-bold text-xl'>Image Gallery</h1>
         </div>
         {/* Search bar */}
         <div className='flex gap-3 items-center'>
